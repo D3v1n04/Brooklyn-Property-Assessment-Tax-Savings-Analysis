@@ -12,6 +12,10 @@ Open the downloaded file in Microsoft Excel. Start with **Guide** and **Assumpti
 
 The workbook is distributed as a release attachment because of its size. It is not included in the repository's source-code ZIP downloads.
 
+## Dashboard Preview
+
+![Brooklyn property assessment dashboard](images/dashboard.png)
+
 ## Results
 
 - Analyzed 161,962 property-year records.
