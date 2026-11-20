@@ -27,6 +27,16 @@ Review candidates are screening results, not confirmed cases of overassessment o
 - Excel tables, PivotTables, XLOOKUP, LET, FILTER, SORT, and dynamic arrays
 - Excel dashboard and prioritized review list
 
+## Data Source
+
+Source: [NYC Open Data — dataset 8y4t-faws](https://data.cityofnewyork.us/d/8y4t-faws)
+
+- API endpoint: https://data.cityofnewyork.us/resource/8y4t-faws.json
+- Dataset metadata: https://data.cityofnewyork.us/api/views/8y4t-faws.json
+- Analysis scope: Brooklyn property assessment records.
+
+The published workbook reflects the downloaded data used for this project. Future downloads may differ as the source is updated.
+
 ## Methodology
 
 1. Collect and prepare property assessment records.
@@ -34,7 +44,7 @@ Review candidates are screening results, not confirmed cases of overassessment o
 3. Group properties by fiscal year, ZIP code, building class, tax class, and gross-square-footage band.
 4. Require at least 10 other eligible peers for benchmarking.
 5. Calculate assessed value per square foot and the peer median, excluding the subject property.
-6. Calculate the percentage above the peer median and identify review candidates using the workbook's screening threshold.
+6. Flag eligible properties meeting the 25% threshold above the peer median assessed value per square foot for further review.
 
 ## Validation
 
