@@ -1,0 +1,26 @@
+borough,year,record_count,file
+Manhattan,2023,165212,manhattan_2023.csv
+Manhattan,2024,167641,manhattan_2024.csv
+Manhattan,2025,169001,manhattan_2025.csv
+Manhattan,2026,170599,manhattan_2026.csv
+Manhattan,2027,172132,manhattan_2027.csv
+Bronx,2023,37386,bronx_2023.csv
+Bronx,2024,37607,bronx_2024.csv
+Bronx,2025,37779,bronx_2025.csv
+Bronx,2026,37903,bronx_2026.csv
+Bronx,2027,38117,bronx_2027.csv
+Brooklyn,2023,134055,brooklyn_2023.csv
+Brooklyn,2024,136319,brooklyn_2024.csv
+Brooklyn,2025,138620,brooklyn_2025.csv
+Brooklyn,2026,140822,brooklyn_2026.csv
+Brooklyn,2027,142315,brooklyn_2027.csv
+Queens,2023,83151,queens_2023.csv
+Queens,2024,85208,queens_2024.csv
+Queens,2025,86357,queens_2025.csv
+Queens,2026,88381,queens_2026.csv
+Queens,2027,90278,queens_2027.csv
+Staten Island,2023,13817,staten_island_2023.csv
+Staten Island,2024,13903,staten_island_2024.csv
+Staten Island,2025,13879,staten_island_2025.csv
+Staten Island,2026,13913,staten_island_2026.csv
+Staten Island,2027,13981,staten_island_2027.csv

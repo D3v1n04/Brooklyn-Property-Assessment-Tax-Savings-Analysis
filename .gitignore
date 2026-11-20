@@ -6,3 +6,4 @@ __pycache__/
 .env.*
 data/
 excel/*.xlsx
+reports/cleaning/excluded_record_index.parquet

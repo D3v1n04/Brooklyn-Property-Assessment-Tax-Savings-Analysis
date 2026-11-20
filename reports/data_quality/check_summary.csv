@@ -1,0 +1,192 @@
+check,status,actual,expected
+Raw count matches manifest,PASS,11556740,11556740
+Processed count matches eligible raw,PASS,2228376,2228376
+eligible_raw: duplicate API ID groups,PASS,0,0
+eligible_raw: missing API IDs,PASS,0,0
+processed: duplicate API ID groups,PASS,0,0
+processed: missing API IDs,PASS,0,0
+Eligible raw IDs missing from processed,PASS,0,0
+Unexpected processed IDs,PASS,0,0
+Source value preserved: source_row_id,PASS,0,0
+Source value preserved: parid,PASS,0,0
+Source value preserved: boro,PASS,0,0
+Source value preserved: block,PASS,0,0
+Source value preserved: lot,PASS,0,0
+Source value preserved: easement,PASS,0,0
+Source value preserved: rectype,PASS,0,0
+Source value preserved: year,PASS,0,0
+Source value preserved: period,PASS,0,0
+Source value preserved: extracrdt,PASS,0,0
+Source value preserved: housenum_lo,PASS,0,0
+Source value preserved: housenum_hi,PASS,0,0
+Source value preserved: street_name,PASS,0,0
+Source value preserved: zip_code,PASS,0,0
+Source value preserved: cpb_boro,PASS,0,0
+Source value preserved: cpb_dist,PASS,0,0
+Source value preserved: bldg_class,PASS,0,0
+Source value preserved: bld_story,PASS,0,0
+Source value preserved: num_bldgs,PASS,0,0
+Source value preserved: yrbuilt,PASS,0,0
+Source value preserved: yrbuilt_flag,PASS,0,0
+Source value preserved: yralt1,PASS,0,0
+Source value preserved: yralt2,PASS,0,0
+Source value preserved: units,PASS,0,0
+Source value preserved: coop_apts,PASS,0,0
+Source value preserved: land_area,PASS,0,0
+Source value preserved: gross_sqft,PASS,0,0
+Source value preserved: residential_area_gross,PASS,0,0
+Source value preserved: office_area_gross,PASS,0,0
+Source value preserved: retail_area_gross,PASS,0,0
+Source value preserved: hotel_area_gross,PASS,0,0
+Source value preserved: factory_area_gross,PASS,0,0
+Source value preserved: warehouse_area_gross,PASS,0,0
+Source value preserved: finmktland,PASS,0,0
+Source value preserved: finmkttot,PASS,0,0
+Source value preserved: finacttot,PASS,0,0
+Source value preserved: finactextot,PASS,0,0
+Source value preserved: fintrntot,PASS,0,0
+Source value preserved: fintrnextot,PASS,0,0
+Source value preserved: fintxbtot,PASS,0,0
+Source value preserved: fintxbextot,PASS,0,0
+Source value preserved: fintaxclass,PASS,0,0
+Source value preserved: tenmkttot,PASS,0,0
+Source value preserved: tenacttot,PASS,0,0
+Source value preserved: tentxbtot,PASS,0,0
+Source value preserved: tentxbextot,PASS,0,0
+Source value preserved: tentaxclass,PASS,0,0
+Source value preserved: valref,PASS,0,0
+Source value preserved: noav,PASS,0,0
+Source value preserved: newdrop,PASS,0,0
+Source value preserved: condo_number,PASS,0,0
+Source value preserved: coop_num,PASS,0,0
+Source value preserved: fintaxflag,PASS,0,0
+Source value preserved: tentaxflag,PASS,0,0
+Source value preserved: protest_1,PASS,0,0
+Source value preserved: protest_2,PASS,0,0
+CSV columns: bronx_2023.csv,PASS,True,True
+CSV row count: bronx_2023.csv,PASS,37386,37386
+CSV fits Excel: bronx_2023.csv,PASS,True,True
+bronx_2023.csv: extra_or_changed,PASS,0,0
+bronx_2023.csv: missing_or_changed,PASS,0,0
+CSV columns: bronx_2024.csv,PASS,True,True
+CSV row count: bronx_2024.csv,PASS,37607,37607
+CSV fits Excel: bronx_2024.csv,PASS,True,True
+bronx_2024.csv: extra_or_changed,PASS,0,0
+bronx_2024.csv: missing_or_changed,PASS,0,0
+CSV columns: staten_island_2023.csv,PASS,True,True
+CSV row count: staten_island_2023.csv,PASS,13817,13817
+CSV fits Excel: staten_island_2023.csv,PASS,True,True
+staten_island_2023.csv: extra_or_changed,PASS,0,0
+staten_island_2023.csv: missing_or_changed,PASS,0,0
+CSV columns: staten_island_2024.csv,PASS,True,True
+CSV row count: staten_island_2024.csv,PASS,13903,13903
+CSV fits Excel: staten_island_2024.csv,PASS,True,True
+staten_island_2024.csv: extra_or_changed,PASS,0,0
+staten_island_2024.csv: missing_or_changed,PASS,0,0
+CSV columns: manhattan_2026.csv,PASS,True,True
+CSV row count: manhattan_2026.csv,PASS,170599,170599
+CSV fits Excel: manhattan_2026.csv,PASS,True,True
+manhattan_2026.csv: extra_or_changed,PASS,0,0
+manhattan_2026.csv: missing_or_changed,PASS,0,0
+CSV columns: manhattan_2025.csv,PASS,True,True
+CSV row count: manhattan_2025.csv,PASS,169001,169001
+CSV fits Excel: manhattan_2025.csv,PASS,True,True
+manhattan_2025.csv: extra_or_changed,PASS,0,0
+manhattan_2025.csv: missing_or_changed,PASS,0,0
+CSV columns: brooklyn_2027.csv,PASS,True,True
+CSV row count: brooklyn_2027.csv,PASS,142315,142315
+CSV fits Excel: brooklyn_2027.csv,PASS,True,True
+brooklyn_2027.csv: extra_or_changed,PASS,0,0
+brooklyn_2027.csv: missing_or_changed,PASS,0,0
+CSV columns: queens_2027.csv,PASS,True,True
+CSV row count: queens_2027.csv,PASS,90278,90278
+CSV fits Excel: queens_2027.csv,PASS,True,True
+queens_2027.csv: extra_or_changed,PASS,0,0
+queens_2027.csv: missing_or_changed,PASS,0,0
+CSV columns: manhattan_2024.csv,PASS,True,True
+CSV row count: manhattan_2024.csv,PASS,167641,167641
+CSV fits Excel: manhattan_2024.csv,PASS,True,True
+manhattan_2024.csv: extra_or_changed,PASS,0,0
+manhattan_2024.csv: missing_or_changed,PASS,0,0
+CSV columns: manhattan_2023.csv,PASS,True,True
+CSV row count: manhattan_2023.csv,PASS,165212,165212
+CSV fits Excel: manhattan_2023.csv,PASS,True,True
+manhattan_2023.csv: extra_or_changed,PASS,0,0
+manhattan_2023.csv: missing_or_changed,PASS,0,0
+CSV columns: queens_2026.csv,PASS,True,True
+CSV row count: queens_2026.csv,PASS,88381,88381
+CSV fits Excel: queens_2026.csv,PASS,True,True
+queens_2026.csv: extra_or_changed,PASS,0,0
+queens_2026.csv: missing_or_changed,PASS,0,0
+CSV columns: queens_2025.csv,PASS,True,True
+CSV row count: queens_2025.csv,PASS,86357,86357
+CSV fits Excel: queens_2025.csv,PASS,True,True
+queens_2025.csv: extra_or_changed,PASS,0,0
+queens_2025.csv: missing_or_changed,PASS,0,0
+CSV columns: bronx_2027.csv,PASS,True,True
+CSV row count: bronx_2027.csv,PASS,38117,38117
+CSV fits Excel: bronx_2027.csv,PASS,True,True
+bronx_2027.csv: extra_or_changed,PASS,0,0
+bronx_2027.csv: missing_or_changed,PASS,0,0
+CSV columns: staten_island_2027.csv,PASS,True,True
+CSV row count: staten_island_2027.csv,PASS,13981,13981
+CSV fits Excel: staten_island_2027.csv,PASS,True,True
+staten_island_2027.csv: extra_or_changed,PASS,0,0
+staten_island_2027.csv: missing_or_changed,PASS,0,0
+CSV columns: queens_2023.csv,PASS,True,True
+CSV row count: queens_2023.csv,PASS,83151,83151
+CSV fits Excel: queens_2023.csv,PASS,True,True
+queens_2023.csv: extra_or_changed,PASS,0,0
+queens_2023.csv: missing_or_changed,PASS,0,0
+CSV columns: queens_2024.csv,PASS,True,True
+CSV row count: queens_2024.csv,PASS,85208,85208
+CSV fits Excel: queens_2024.csv,PASS,True,True
+queens_2024.csv: extra_or_changed,PASS,0,0
+queens_2024.csv: missing_or_changed,PASS,0,0
+CSV columns: brooklyn_2023.csv,PASS,True,True
+CSV row count: brooklyn_2023.csv,PASS,134055,134055
+CSV fits Excel: brooklyn_2023.csv,PASS,True,True
+brooklyn_2023.csv: extra_or_changed,PASS,0,0
+brooklyn_2023.csv: missing_or_changed,PASS,0,0
+CSV columns: brooklyn_2024.csv,PASS,True,True
+CSV row count: brooklyn_2024.csv,PASS,136319,136319
+CSV fits Excel: brooklyn_2024.csv,PASS,True,True
+brooklyn_2024.csv: extra_or_changed,PASS,0,0
+brooklyn_2024.csv: missing_or_changed,PASS,0,0
+CSV columns: brooklyn_2025.csv,PASS,True,True
+CSV row count: brooklyn_2025.csv,PASS,138620,138620
+CSV fits Excel: brooklyn_2025.csv,PASS,True,True
+brooklyn_2025.csv: extra_or_changed,PASS,0,0
+brooklyn_2025.csv: missing_or_changed,PASS,0,0
+CSV columns: brooklyn_2026.csv,PASS,True,True
+CSV row count: brooklyn_2026.csv,PASS,140822,140822
+CSV fits Excel: brooklyn_2026.csv,PASS,True,True
+brooklyn_2026.csv: extra_or_changed,PASS,0,0
+brooklyn_2026.csv: missing_or_changed,PASS,0,0
+CSV columns: manhattan_2027.csv,PASS,True,True
+CSV row count: manhattan_2027.csv,PASS,172132,172132
+CSV fits Excel: manhattan_2027.csv,PASS,True,True
+manhattan_2027.csv: extra_or_changed,PASS,0,0
+manhattan_2027.csv: missing_or_changed,PASS,0,0
+CSV columns: bronx_2025.csv,PASS,True,True
+CSV row count: bronx_2025.csv,PASS,37779,37779
+CSV fits Excel: bronx_2025.csv,PASS,True,True
+bronx_2025.csv: extra_or_changed,PASS,0,0
+bronx_2025.csv: missing_or_changed,PASS,0,0
+CSV columns: bronx_2026.csv,PASS,True,True
+CSV row count: bronx_2026.csv,PASS,37903,37903
+CSV fits Excel: bronx_2026.csv,PASS,True,True
+bronx_2026.csv: extra_or_changed,PASS,0,0
+bronx_2026.csv: missing_or_changed,PASS,0,0
+CSV columns: staten_island_2026.csv,PASS,True,True
+CSV row count: staten_island_2026.csv,PASS,13913,13913
+CSV fits Excel: staten_island_2026.csv,PASS,True,True
+staten_island_2026.csv: extra_or_changed,PASS,0,0
+staten_island_2026.csv: missing_or_changed,PASS,0,0
+CSV columns: staten_island_2025.csv,PASS,True,True
+CSV row count: staten_island_2025.csv,PASS,13879,13879
+CSV fits Excel: staten_island_2025.csv,PASS,True,True
+staten_island_2025.csv: extra_or_changed,PASS,0,0
+staten_island_2025.csv: missing_or_changed,PASS,0,0
+Unexpected CSV files,PASS,0,0
+Missing CSV files,PASS,0,0

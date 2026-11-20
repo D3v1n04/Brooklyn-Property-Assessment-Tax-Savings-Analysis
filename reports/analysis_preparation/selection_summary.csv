@@ -1,0 +1,21 @@
+property_group,year,selected_records,basic_eligible_records,excluded_records,zip_flags,age_flags,size_flags
+Elevator apartments,2023,7708,7635,73,15,7,675
+Elevator apartments,2024,7801,7720,81,15,26,683
+Elevator apartments,2025,7915,7844,71,21,24,680
+Elevator apartments,2026,7998,7932,66,32,23,702
+Elevator apartments,2027,8094,8016,78,33,32,726
+Office buildings,2023,5173,5149,24,9,3,305
+Office buildings,2024,5160,5138,22,9,5,300
+Office buildings,2025,5156,5137,19,10,8,297
+Office buildings,2026,5164,5134,30,42,7,304
+Office buildings,2027,5136,5114,22,44,7,302
+Retail buildings,2023,11243,11224,19,23,6,443
+Retail buildings,2024,11148,11133,15,24,4,443
+Retail buildings,2025,11084,11073,11,22,4,439
+Retail buildings,2026,11028,11005,23,166,5,440
+Retail buildings,2027,10950,10927,23,164,7,416
+Walk-up apartments,2023,49157,49031,126,23,28,1529
+Walk-up apartments,2024,49214,49123,91,31,43,1521
+Walk-up apartments,2025,49366,49288,78,30,38,1568
+Walk-up apartments,2026,49419,49325,94,58,44,1581
+Walk-up apartments,2027,49609,49524,85,64,50,1585

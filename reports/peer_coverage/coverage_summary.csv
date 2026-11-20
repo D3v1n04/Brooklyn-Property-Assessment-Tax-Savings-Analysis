@@ -1,0 +1,21 @@
+year,property_group,candidate_records,zip_unusable_records,age_review_records,size_review_records,enough_peers_without_size,enough_peers_with_size,pct_candidates_with_size_peers
+2023,Elevator apartments,7635,13,6,667,6064,3971,52.01
+2023,Office buildings,5149,9,3,302,3414,1711,33.23
+2023,Retail buildings,11224,23,5,442,10633,7979,71.09
+2023,Walk-up apartments,49031,22,28,1511,47441,44808,91.39
+2024,Elevator apartments,7720,15,25,666,6188,4051,52.47
+2024,Office buildings,5138,9,5,296,3424,1691,32.91
+2024,Retail buildings,11133,24,3,441,10532,7856,70.56
+2024,Walk-up apartments,49123,30,41,1510,47528,44898,91.4
+2025,Elevator apartments,7844,20,20,668,6289,4105,52.33
+2025,Office buildings,5137,10,7,292,3431,1702,33.13
+2025,Retail buildings,11073,22,3,437,10466,7805,70.49
+2025,Walk-up apartments,49288,28,36,1556,47670,45083,91.47
+2026,Elevator apartments,7932,30,19,687,6375,4160,52.45
+2026,Office buildings,5134,42,7,300,3386,1679,32.7
+2026,Retail buildings,11005,166,4,439,10291,7600,69.06
+2026,Walk-up apartments,49325,58,38,1570,47665,45092,91.42
+2027,Elevator apartments,8016,30,25,714,6423,4221,52.66
+2027,Office buildings,5114,44,7,300,3336,1684,32.93
+2027,Retail buildings,10927,164,5,414,10211,7541,69.01
+2027,Walk-up apartments,49524,64,48,1574,47841,45318,91.51

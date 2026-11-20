@@ -1,0 +1,16 @@
+Source manifest: /Users/devin/Projects/NYC Property Assessment & Tax Savings Analysis/data/raw/assessment_batches/manifest.json
+Batch files: 578
+Records: 11556740
+Columns: 56
+Total bytes: 2611933949
+Polars version: 1.36.1
+Elapsed minutes: 0.33
+Batch checksums and headers matched the manifest.
+All CSV columns were read as text.
+Missing = null plus non-null empty/whitespace strings.
+Text placeholders such as N/A were not counted as missing.
+Sample contains the first five records, not a random sample.
+Repeated candidate keys were counted, not removed.
+Candidate key: parid + year + period + extracrdt.
+No raw records were modified or deleted.
+This is a structural profile, not complete business validation.

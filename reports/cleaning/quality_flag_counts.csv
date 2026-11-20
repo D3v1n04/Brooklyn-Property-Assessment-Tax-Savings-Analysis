@@ -1,0 +1,6 @@
+borough,bld_story_parse_error,num_bldgs_parse_error,yrbuilt_parse_error,yralt1_parse_error,yralt2_parse_error,units_parse_error,coop_apts_parse_error,land_area_parse_error,gross_sqft_parse_error,residential_area_gross_parse_error,office_area_gross_parse_error,retail_area_gross_parse_error,hotel_area_gross_parse_error,factory_area_gross_parse_error,warehouse_area_gross_parse_error,finmktland_parse_error,finmkttot_parse_error,finacttot_parse_error,finactextot_parse_error,fintrntot_parse_error,fintrnextot_parse_error,fintxbtot_parse_error,fintxbextot_parse_error,tenmkttot_parse_error,tenacttot_parse_error,tentxbtot_parse_error,tentxbextot_parse_error,has_numeric_parse_error,missing_property_id,invalid_or_missing_year,missing_or_nonpositive_sqft,missing_or_nonpositive_assessment,missing_building_class,value_reflected_in_other_lot,building_in_progress,zip_needs_review
+Manhattan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10593,17200,0,523,0,3901
+Bronx,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13621,2154,0,99,0,5222
+Brooklyn,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47691,29194,0,202,0,8078
+Queens,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28272,8212,0,337,0,10752
+Staten Island,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25844,3996,0,2555,0,19195
